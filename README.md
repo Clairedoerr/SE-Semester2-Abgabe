@@ -1,1 +1,1 @@
-# SE-Semester2-Abgabe
+# LearnTogether
