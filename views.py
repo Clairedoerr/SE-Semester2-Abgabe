@@ -17,26 +17,6 @@ def landingPage(request):
     }
     return render(request, "meine_app/template.html", vars)
 
-def g(request):
-    return HttpResponse("Hello")
-
-'''def saveUploadedFile(request):
-    if request.method == "POST" and request.FILES["datei"]:
-        datei = request.FILES["datei"]
-        FileSystemStorage("/var/www/static/images/").save(datei.name, datei)
-
-        vars = {
-            datei.name: request.POST["beschreibung"],
-        }
-        with open("/var/www/static/images/beschreibungen.json", "r") as file:
-            dictionary = json.load(file)
-            dictionary.update(vars)
-        with open("/var/www/static/images/beschreibungen.json", "w") as file:
-            serializedDictionary = json.dumps(dictionary)
-            file.write(serializedDictionary)
-        return HttpResponse(f"Geklappt {vars[datei.name]}")'''
-    
-
 def startseite(request):
     if os.path.exists(BESCHREIBUNGEN_DATEI):
         with open(BESCHREIBUNGEN_DATEI, "r") as datei:

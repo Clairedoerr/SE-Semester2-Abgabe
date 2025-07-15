@@ -5,7 +5,6 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 urlpatterns = [
     path("upload", app_views.saveUploadedFile, name="upload"),
     path("form", app_views.landingPage),
-    path("g", app_views.g),
     path("startseite", app_views.startseite, name="startseite"),
     path("login", app_views.login, name="login"),
     path("posten", app_views.posten, name="posten"),
