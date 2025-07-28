@@ -22,10 +22,10 @@ Die Kernfunktionen umfassen Nutzer-Authentifizierung (Registrierung, Login, Logo
 Unsere Entscheidung für diese Projektidee basierte auf eigenen Erfahrungen im Studium, in denen sich gemeinsames Lernen als besonders motivierend und effektiv erwiesen hat. LearnTogether überträgt dieses Prinzip in eine digitale, skalierbare Form.
 <br>
 Das Ziel des Projekts war es daher, eine funktionale und benutzerfreundliche Webanwendung zu entwickeln, die den sozialen Austausch zu dem Thema Lernen aktiv fördert und somit einen konkreten Beitrag zur digitalen Bildung leistet. Die Plattform soll dabei Anwender motivieren, Lernprozesse gemeinsam zu gestalten, Erfahrungen auszutauschen und sich gegenseitig in ihrem individuellen Lernfortschritt zu unterstützen.
-Der Fokus lag dabei sowohl auf der technischen Umsetzung zentraler Social-Media Funktionalitäten, erfüllt aber auch einen gesellschaftlichen Mehrwert, in dem die App gemeinsames Lernen digital unterstützt. Gleichzeitig verfolgte das Projekt das Ziel, theoretisch erlernte Konzepte des Softwareengineerings – insbesondere in den Bereichen agiler Entwicklung, Projektmanagement und Anforderungsanalyse – praxisnah anzuwenden und zu vertiefen. 
+Der Fokus lag dabei auf der technischen Umsetzung zentraler Social-Media Funktionalitäten. Gleichzeitig aber auch theoretisch erlernte Konzepte des Softwareengineerings – insbesondere in den Bereichen agiler Entwicklung, Projektmanagement und Anforderungsanalyse – praxisnah anzuwenden und zu vertiefen. 
 ## Individueller Beitrag im Projekt
 ### Teamstruktur und Rollenverteilung
-Unser Projektteam bestand aus drei Mitgliedern: Kristina Baotic, Emely Maier und Claire Dörr. Um das Projekt effizient umzusetzen, haben wir als Team das agile Vorgehensmodell Scrum verwendet. Scrum ist ein Framework zur Entwicklung von Software, das auf interaktiver Arbeit, klarem Rollenverständnis und regelmäßigen Austausch (Sprints) basiert. Innerhalb des Scrum-Frameworks wurden die Rollen klar verteilt und so übernahm ich in unserem Team die Rolle des Scrum Masters. Der Scrum MAszer ist dafür verantwortlich, den Scrum-Prozess im Team zu etablieren, dessen Einhaltung zu gewährleisten und das Team bei der Beseitigung von Hindernissen zu unterstützen.
+Unser Projektteam bestand aus drei Mitgliedern: Kristina Baotic, Emely Maier und Claire Dörr. Um das Projekt effizient umzusetzen, haben wir als Team das agile Vorgehensmodell Scrum verwendet. Scrum ist ein Framework zur Entwicklung von Software, das auf interaktiver Arbeit, klarem Rollenverständnis und regelmäßigen Austausch basiert. Innerhalb des Scrum-Frameworks wurden die Rollen klar verteilt und so übernahm ich in unserem Team die Rolle des Scrum Masters. Der Scrum Master ist dafür verantwortlich, den Scrum-Prozess im Team zu etablieren, dessen Einhaltung zu gewährleisten und das Team bei der Beseitigung von Hindernissen zu unterstützen.
 <br>
 Gleichzeitig war ich auch Teil des Entwicklungsteam und arbeitete aktiv sowohl am Frontend – als auch an Backend-Komponenten mit. 
 ### Verantwortung im Bereich Projektmanagement
@@ -36,16 +36,18 @@ Diese regelmäßigen Treffen förderten nicht nur die Transparenz innerhalb des 
 Darüber hinaus war ich für die Erstellung eines GitHub Projekts zuständig. GitHub ist eine webbasierte Plattform zur Versionsverwaltung und kollaborativen Softwareentwicklung, die auf dem Versionskontrollsystem Git basiert und Teams ermöglicht, den Programm-Code effizient zu verwalten, daran zu arbeiten und Änderungen nachvollziehbar zu dokumentieren. Die Versionskontrolle in GitHub war essenziell für eine teamübergreifende Arbeit an unserem Code. Durch GitHub war die Zusammenarbeit erheblich erleichtert, da der Code zentral verfügbar war und alle Mitglieder stets mit der aktuellsten Version arbeiteten konnten. 
 <br>
 Im Vorfeld der technischen Umsetzung beschäftigte ich mich auch mit den Grundlagen des Requirements-Engineerings, um sicherzustellen, dass unser Projekt auf einer strukturierten und zielgerichteten Anforderungsbasis aufbaut. Requirements-Engineering beschreibt den systematischen Prozess zur Erhebung, Analyse, Spezifikation und Verwaltung von Anforderungen an ein zu entwickelndes System. 
-Vor Projektbeginn führten wir eine umfassende Anforderungserhebung durch. Hierbei analysierten wir die Bedürfnisse unserer potenziellen Nutzer und überführten diese in erste Anforderungen. In diesem Schritt betrieben wir auch eine Form der „Anforderungsarchäologie“, indem wir bestehende Social-Media-Plattformen analysierten und aus deren Funktionen, Stärken und Schwächen Rückschlüsse auf unsere eigene Produktvision zogen. 
+Vor Projektbeginn führten wir eine umfassende Anforderungserhebung durch. Hierbei analysierten wir die Bedürfnisse unserer potenziellen Nutzer und überführten diese in erste Anforderungen. In diesem Schritt betrieben wir auch eine Form der „Anforderungsarchäologie“, indem wir bestehende Social-Media-Plattformen analysierten und aus deren Funktionen, Rückschlüsse auf unsere eigene Produktvision zogen. 
+<br>
 Anschließend erfolgte eine Anforderungsanalyse, bei der wir die ermittelten Anforderungen hinsichtlich ihrer Umsetzbarkeit, Priorität und Abhängigkeiten beurteilten. Die identifizierten funktionalen Anforderungen (wie z. B. Nutzerregistrierung, Post-Erstellung, Kommentarfunktion) und nicht-funktionalen Anforderungen wurden von uns entsprechend priorisiert und in ein initiales Product Backlog überführt. Dieses Backlog bildete die Grundlage für unsere Arbeit mit dem Kanban-Board, das ich in Trello erstellte, unsere Teammitglieder hinzufügte und pflegte zusammen mit den anderen. Das Kanban-Board diente der transparenten Verwaltung aller Aufgaben im Projektverlauf: Aufgaben wurden dort in Spalten wie „To-Do“, „In Bearbeitung“ und „Erledigt“ gegliedert, einzelnen Teammitgliedern zugewiesen und bei Fortschritt entsprechend verschoben. So war jederzeit ersichtlich, wer woran arbeitet und welche Aufgaben anstehen. 
 <br>
 Die strukturierte Anwendung des Requirements-Engineerings half uns nicht nur bei der fundierten Planung, sondern stellte auch sicher, dass wir im Laufe des Projekts kontinuierlich nutzerorientiert und zielgerichtet entwickeln konnten. Dieser methodische Ansatz erwies sich insbesondere im Zusammenspiel mit agilen Prozessen wie Scrum als entscheidender Erfolgsfaktor für die Qualität und Realisierbarkeit unserer Lösung.
 <br>
 Im Rahmen der Vorbereitung auf die abschließende Projektmesse teilten wir die Aufgaben innerhalb des Teams klar untereinander auf, um einen reibungslosen Ablauf der Präsentation sicherzustellen. Meine Aufgabe bestand unter anderem darin, ein kurzes Präsentationsvideo zu schneiden, das während der Messe auf einem Bildschirm gezeigt wurde. Gemeinsam bauten wir den Stand auf, koordinierten die technische Ausstattung. Ziel war es, die Funktionen und das Konzept von LearnTogether möglichst anschaulich und verständlich zu präsentieren.
+
 ### Verantwortung im Bereich der Technik
 Im Bereich der Technik hatte ich ebenfalls mehrere Aufgaben. Zunächst skizzierten wir im Team die Webapp. Dieser Schritt war einer der ersten, die wir im Projekt angegangen sind. Nachdem wir das grobe Design besprochen hatten, erstellte ich mithilfe von Wireframe Mockups. Dadurch hatte wir alle die gleiche Vorstellung darüber, wie es aussehen soll und es konnte ein HTML-Gerüst erstellt werden. <br>
 https://wireframe.cc/pro/pp/43d7950bb883700<br><br>
-Die Webapp wurde jedoch schlussendlich mit einer kleinen geringfügigen Modifikation umgesetzt: Die ursprünglich vorgesehene „Entdecken“-Seite wurde entfern, da die entsprechenden Beiträge bereits auf der Startseite integriert sind und dies inhaltliche Wiederholungen zur Folge gehabt hätte.
+Die Webapp wurde jedoch schlussendlich mit einer kleinen geringfügigen Modifikation umgesetzt: Die ursprünglich vorgesehene „Entdecken“-Seite wurde entfernt, da die entsprechenden Beiträge bereits auf der Startseite integriert sind und dies inhaltliche Wiederholungen zur Folge gehabt hätte.
 Zu meine Aufgaben bei der Erstellung des Frontends gehörten das Erstellen der Navigationsleiste auf allen Seiten, sowie das Anfertigen der Frontend Seiten „Post-Ansicht“, „Profilseite“ und die Seite zur Profilbearbeitung. Dazu frischte ich meine Kenntnisse in HTML und CSS im Bereich des Erstellens und Designens auf. 
 Bei der Erstellung der seitlichen Navigationsleiste, welche auf allen Seiten eingebunden ist, legte ich besonderen Wert auf die Benutzerfreundlichkeit und ein konsistentes Design. Ich arbeitete mit fixierter Positionierung, sodass die Leiste auch beim Scrollen sichtbar bleibt. Die Navigationselemente ordnete ich mithilfe von `flex-direction: column` vertikal an, um eine klare Struktur zu schaffen. Statt Textlinks verwendete ich aussagekräftige Icons in Bildform, so wird der Zweck der Buttons auf einen Blick ersichtlich. Im CSS definierte ich zusätzlich Maße, Abstände und das Layout der Icons, um ein einheitliches Erscheinungsbild und eine gute Bedienbarkeit über alle Seiten hinweg sicherzustellen.
 <br>
@@ -80,8 +82,12 @@ Bei der Erstellung der seitlichen Navigationsleiste, welche auf allen Seiten ein
     height: 28px;
 }
 ```
+Auf dem Screenshot des Frontends der Startseite hier ist beispielsweise die fertig gestylte Navigationsleiste zu sehen. 
+<br>
 
-Eine weitere wichtige Komponente der App, die ich auch erstellt hatte, ist die Posten-Seite. Benutzer können hier eigene Beiträge mit einem Titel und einem Bild hochladen. Die Seite wurde in HTML mithilfe von HTML-Forms umgesetzt. Mit `enctype="multipart/form-data"` wurde es so konfiguriert, dass neben Textdaten auch Bilddateien korrekt an den Server übermittelt werden können. Das `enctype`-Attribut ist hierbei notwendig, da es die Dateien in mehreren Teilen überträgt und so sicherstellt, dass auch Binärdaten wie Bilder vom Server empfangen und verarbeitet werden können. Über den Button Posten wird der Beitrag anschließend an die zugehörige Django-View weitergeleitet. Zusätzlich habe ich auch hier mit CSS für eine klare Struktur, ausreichend Abstand und eine benutzerfreundliche Darstellung gesorgt.
+![Startseite](https://github.com/Clairedoerr/SE-Semester2-Abgabe/blob/main/Startseite.png?raw=true)
+
+Eine weitere wichtige Komponente der App, die ich auch erstellt hatte, ist die Posten-Seite. Benutzer können hier eigene Beiträge mit einem Titel und einem Bild hochladen. Die Seite wurde in HTML mithilfe von HTML-Forms umgesetzt. Mit `enctype="multipart/form-data"` wurde es so konfiguriert, dass neben Textdaten auch Bilddateien korrekt an den Server übermittelt werden können. Das `enctype`-Attribut ist hierbei notwendig, da es die Dateien in mehreren Teilen überträgt und so sicherstellt, dass auch Binärdaten wie Bilder vom Server empfangen und verarbeitet werden können. Über den Button Posten wird der Beitrag anschließend an die zugehörige Django-View weitergeleitet. 
 
 ```html
 <form id="forms" method="POST" enctype="multipart/form-data" action="{% url 'upload' %}">
@@ -110,6 +116,8 @@ Eine weitere wichtige Komponente der App, die ich auch erstellt hatte, ist die P
 
 </form>
 ```
+Zusätzlich habe ich auch hier mit CSS für eine klare Struktur, ausreichend Abstand und eine benutzerfreundliche Darstellung gesorgt, wie in dem Screenshot ersichtlich wird. 
+![Upload](https://github.com/Clairedoerr/SE-Semester2-Abgabe/blob/main/Upload.png?raw=true)
 
 Nachdem der Beitrag erstellt wurde, wird dieser auf der Startseite angezeigt und kann auf der Post-Detail-Seite vergrößert angeschaut und kommentiert werden. Das Front-End hierfür habe ich ebenfalls erstellt. Dort habe ich ein zweispaltiges Layout entworfen links wird das Bild mit Titel und Benutzer angezeigt, rechts befindet sich ein Kommentarbereich. Die technische Umsetzung des Kommentarbereichs über das Backend übernahm Frau Meyer. So legte für den Kommentarbereich Platzhalter und das visuelle Grundgerüst an, um eine klare Struktur zu schaffen, auf die anschließend die Backend-Funktionalität aufbauen konnte. Eine enge Abstimmung war erforderlich, um das Design nahtlos in die Anwendung zu integrieren.
 
@@ -139,6 +147,8 @@ Nachdem der Beitrag erstellt wurde, wird dieser auf der Startseite angezeigt und
 ```
 
 Ein weiterer Teil meiner Aufgabe war die Umsetzung des Frontends für die Profilseite. Dort habe ich das Layout gestaltet, in dem der Benutzername sowie die bisherigen Beiträge des Nutzers übersichtlich dargestellt werden. Der obere Bereich („Kopfzeile“) zeigt das Profilbild zusammen mit dem Namen, darunter werden die Posts des Users in einer Kachelansicht angezeigt. 
+
+![Profil](https://github.com/Clairedoerr/SE-Semester2-Abgabe/blob/main/Profil.png?raw=true)
 
 ```html
 <div class="hauptinhalt">
@@ -186,10 +196,13 @@ Auch die Seite „Profil bearbeiten“ habe ich im Frontend umgesetzt. Dabei ers
     
 </div>
 ```
+![Profil_bearbeiten](https://github.com/Clairedoerr/SE-Semester2-Abgabe/blob/main/Profil_bearbeiten.png?raw=true)
 
-Nach der Gestaltung der Profil- und Profilbearbeitungsseite im Frontend ging es im nächsten Schritt darum, auch die dahinterliegende Logik im Backend umzusetzen. Hierzu zählte vor allem die Arbeit mit dem Benutzersystem: Ich war verantwortlich für die Implementierung der User-Authentifikation, die Registrierung, das Login/Logout sowie die Bearbeitung und Verwaltung von Benutzerprofilen.
+Nach der Gestaltung der Profil- und Profilbearbeitungsseite im Frontend ging es im nächsten Schritt darum, auch die dahinterliegende Logik im Backend umzusetzen. Hierzu zählte vor allem die Arbeit mit dem Benutzersystem: Ich war verantwortlich für die Implementierung der User-Authentifikation, die Registrierung und das Login/Logout.
+
+
 <br>
-Bevor ich mit der eigentlichen Backend-Entwicklung begann, richtete ich zunächst die Serverumgebung ein. Dazu installierte ich auf meinem Ubuntu-Server sowohl Django als Webframework als auch Apache als Webserver. Django ist ein leistungsfähiges, in Python geschriebenes Webframework, das die schnelle Entwicklung sicherer und wartbarer Webanwendungen nach dem Model-View-Template-Prinzip ermöglicht. Durch die Konfiguration von Apache und das Einbinden des Django-Projekts, konnte ich die Anwendung auf dem Server, das Backend über die Django-Views starten und auch testen. Durch die Konfiguration von Apache – insbesondere über die `000-default.conf` – und das Einbinden der Django-WSGI-Schnittstelle, konnte das Projekt so eingerichtet werden, dass es auch nach Serverneustarts permanent läuft. So war es möglich, die Anwendung stabil zu hosten und das Backend über Django-Views zu entwickeln.
+Bevor ich mit der eigentlichen Backend-Entwicklung begann, richtete ich zunächst die Serverumgebung ein. Dazu installierte ich auf meinem Ubuntu-Server sowohl Django als Webframework als auch Apache als Webserver. Django ist ein leistungsfähiges, in Python geschriebenes Webframework, das die schnelle Entwicklung sicherer und wartbarer Webanwendungen nach dem Model-View-Template-Prinzip ermöglicht. Durch die Konfiguration von Apache und das Einbinden des Django-Projekts, konnte ich die Anwendung auf dem Server, das Backend über die Django-Views starten und auch testen. Durch die Konfiguration von Apache – insbesondere über die `000-default.conf` – und das Einbinden der Django-WSGI-Schnittstelle, konnte das Projekt so eingerichtet werden, dass es auch nach Serverneustarts permanent läuft. So war es möglich, die  Anwendung stabil zu hosten und das Backend über Django-Views zu entwickeln.
 <br>
 Im Rahmen der Backend-Struktur legte ich in der Datei `urls.py` die verschiedenen Seitenrouten der Anwendung an. Dort definierte ich URL-Pfade wie z. B. `/startseite`, `/posten`, `/profil` oder `/post/` und verknüpfte sie jeweils mit den zugehörigen Funktionen in der Datei `views.py`.
 <br>
